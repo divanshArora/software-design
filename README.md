@@ -8,3 +8,5 @@ Little things I encounter on my SE journey
   - Keycloak when it is validating a JWT provided by user
   - Kafka code
 
+## ToDo: 
+- Complete Effective Java
