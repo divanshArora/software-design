@@ -1,4 +1,4 @@
-# softwared-design
+# software-design
 Little things I encounter on my SE journey
 
 ## Method with many optional and mandatory parameters
